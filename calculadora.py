@@ -13,7 +13,7 @@ def calcular(operacion, numero1, numero2):
 
 
 def main():
-    print("Calculadora básica")
+    print("Mi Calculadora")
 
     while True:
         print("\nElige una operación:")
