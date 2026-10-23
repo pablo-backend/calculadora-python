@@ -1,4 +1,4 @@
-# Calculadora Python
+# calculadora-python
 
 Calculadora básica hecha en Python como parte de mi formación en programación.
 
@@ -9,7 +9,7 @@ Calculadora básica hecha en Python como parte de mi formación en programación
 - Multiplicación
 - División, con control para evitar dividir entre cero
 
-## Requisitos
+## Tecnologías utilizadas
 
 - Python 3
 
